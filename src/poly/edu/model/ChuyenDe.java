@@ -9,6 +9,8 @@ package poly.edu.model;
  * @author Admin
  */
 public class ChuyenDe {
+    
+    //vinh laf ddoof con tros
    private String maCD;
    private String tenCD;
    private float hocPhi;
